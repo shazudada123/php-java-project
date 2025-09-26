@@ -1,0 +1,955 @@
+@media only screen and (min-width: 100px) and (max-width:1440px) {
+    .banner-img {
+        background-size:100% 100%
+    }
+
+    .modal-content {
+        /* bottom:-13%; */
+        /* max-width:63%; */
+    }
+
+    .modal-side-content span {
+        /* font-size:45px; */
+    }
+
+    .contact-form-inputs input {
+        padding: 15px 61px
+    }
+
+    #exampleModalLabel {
+        /* font-size: 35px; */
+        /* line-height: 1.3; */
+        /* padding-top: 11px; */
+    }
+
+    .modal-header {
+        /* padding: 0 !important; */
+    }
+
+    .modal-paragraph p {
+        font-size: 19px;
+        padding-top: 10px;
+        margin: 0
+    }
+
+    .captcha .g-recaptcha {
+        transform: scale(0.75);
+        transform-origin: left
+    }
+}
+
+@media only screen and (min-width: 100px) and (max-width:1399px) {
+    .main-menu>ul {
+        gap:18px
+    }
+
+    .banner-content h1 {
+        font-size: 71px
+    }
+
+    .banner-content p {
+        font-size: 21px
+    }
+
+    button.hero-prev {
+        left: 100px
+    }
+
+    button.hero-next {
+        left: 210px
+    }
+
+    button.hero-prev,button.hero-next {
+        top: 58%
+    }
+
+    .banner-img {
+        height: 44rem;
+        background-size: cover;
+        background-position: center bottom
+    }
+
+    .hero-slider {
+        height: 44rem
+    }
+
+    .custom-next {
+        right: 40px
+    }
+
+    .custom-prev,.custom-next {
+        top: -70px
+    }
+
+    .custom-prev {
+        left: 30px
+    }
+
+    .service-card-content p {
+        font-size: 16px
+    }
+
+    .service-card-content h2 {
+        line-height: 1.2;
+        padding: 10px 0;
+        font-size: 25px
+    }
+
+    .running-project-content p {
+        font-size: 15.5px
+    }
+
+    .running-project-content h2 {
+        font-size: 27px
+    }
+
+    .web-title h2 {
+        font-size: 54px
+    }
+
+    .exam-course-title p {
+        font-size: 17px
+    }
+
+    .logo img {
+        width: 300px
+    }
+
+    .logo {
+        margin-top: -30px
+    }
+
+    .banner-form {
+        width: 70%;
+        margin-top: -650px;
+        padding: 20px 20px
+    }
+
+    .banner-content p.tp-banner {
+        font-size: 28px
+    }
+
+    .modal-content {
+        /* width:450px !important; */
+        /* right:-140px; */
+    }
+
+    #exampleModalLabel {
+        /* font-size: 35px; */
+    }
+
+    .captcha .g-recaptcha {
+        transform: scale(0.7)
+    }
+
+    .contact-form-inputs input {
+        padding: 17px 30px
+    }
+
+    .modal-content {
+        /* right:0; */
+        /* width:480px !important; */
+        /* max-width:78%; */
+        /* bottom:-22%; */
+    }
+
+    .form-banner-discount {
+        font-size: 30px;
+        margin-bottom: 0
+    }
+
+    .contact-form-input input {
+        margin-bottom: 0
+    }
+
+    .modal-content .contact-form-input input {
+        margin-bottom: 15px
+    }
+
+    .modal-content .contact-form-inputs input {
+        padding: 14px 47px;
+        transform: scale(0.9);
+        transform-origin: center;
+        margin-top: 3px
+    }
+
+    .modal-side-content span {
+        /* font-size:38px; */
+    }
+
+    .modal-side-content p {
+        font-size: 75px
+    }
+
+    .policy-box {
+        width: 160px;
+        height: 160px
+    }
+
+    .policy-box i {
+        font-size: 35px
+    }
+
+    .policy-box h2 {
+        font-size: 18px;
+        letter-spacing: 1px;
+        margin-bottom: 0
+    }
+
+    .policy-box p {
+        font-size: 16px;
+        margin-bottom: 0
+    }
+
+    .running-project-img img {
+        height: 180px
+    }
+
+    .flag-img img {
+        height: 150px
+    }
+
+    .service-card {
+        height: 550px
+    }
+}
+
+@media only screen and (min-width: 1345px) and (max-width:1366px) {
+    .modal-content {
+        max-width:67%;
+        width: 100% !important
+    }
+
+    .captcha .g-recaptcha {
+        transform: scale(0.8)
+    }
+
+    .modal-content .contact-form-inputs input {
+        padding: 14px 62px
+    }
+}
+
+@media only screen and (min-width: 100px) and (max-width:1280px) {
+    .service-card-second-sec {
+        padding: 0px 0;
+    }
+}
+
+@media only screen and (min-width: 100px) and (max-width:1199px) {
+    .logo img {
+        width:100%
+    }
+
+    .logo {
+        margin-top: -30px
+    }
+
+    .main-menu ul {
+        gap: 11px;
+        font-size: 14px
+    }
+
+    .banner-content h1 {
+        font-size: 59px
+    }
+
+    .banner-content p {
+        font-size: 18px
+    }
+
+    button.hero-prev,button.hero-next {
+        top: 49%
+    }
+
+    .exam-course-title .paragraph-background-grey {
+        width: 50%
+    }
+
+    .exam-course-title h1 {
+        font-size: 38px
+    }
+
+    .service-card {
+        height: 600px;
+        padding-right: 20px
+    }
+
+    .web-title h2 {
+        font-size: 40px
+    }
+
+    .country-project-content a {
+        font-size: 18px
+    }
+	
+	.no-of-projects {
+        font-size: 18px
+    }
+
+    .footer {
+        background-size: cover;
+        background-position: center top
+    }
+
+    .custom-next {
+        right: 30px
+    }
+
+    .banner-form {
+        width: 80%
+    }
+
+    .banner-content p.tp-banner {
+        font-size: 24px
+    }
+
+    .banner-content p {
+        font-size: 17px
+    }
+
+    .modal-content {
+        /* bottom:-50px; */
+    }
+
+    .modal-side-content span {
+        /* font-size:35px; */
+    }
+
+    .modal-side-content p {
+        font-size: 70px
+    }
+
+    .modal-side-content-inner-body {
+        /* width:40%; */
+    }
+
+    .modal-content {
+        /* right:10px; */
+        /* bottom:-119px; */
+    }
+
+    .modal-side-content {
+        /* margin-right:190px; */
+    }
+
+    .modal-header {
+        /* padding: 0 !important; */
+    }
+
+    .modal-paragraph p {
+        margin-bottom: 0
+    }
+
+    .policy-box {
+        width: 140px;
+        height: 140px
+    }
+
+    .modal-dialog {
+        /* max-width: 72% !important; */
+    }
+
+    .service-card-img img {
+        width: 45px
+    }
+
+    .service-card-content h2 {
+        font-size: 22px
+    }
+
+    a.navbar-brand {
+        width: 28%;
+    }
+}
+
+
+@media only screen and (min-width: 100px) and (max-width:1024px) {
+	.custom-navbar-nav {
+		gap: 2px;
+	}
+	.modal-side-content-inner-body {
+		width: 80%;
+	}
+	.modal-side-content {
+		left: 2%;
+		top: -40px;
+	}
+	.modal-side-content span {
+		font-size: 48px;
+	}
+	.modal-side-content p {
+        font-size: 60px;
+    }
+	.modal-content {
+		padding: 0px 20px;
+		bottom: -4%;
+	}
+	.custom-model-boxes {
+		overflow: visible;
+	}
+	.modal-side-content button.btn-close {
+		top: -5%;
+		right: -15px;
+	}
+	#exampleModalLabel {
+		font-size: 28px;
+	}
+	.modal-paragraph p {
+        font-size: 18px;
+        padding-top: 0px;
+    }
+	.modal-content .contact-form-input input {
+        margin-bottom: 8px;
+    }
+	.contact-form-input input {
+		padding: 8px 10px;
+	}
+	.custom-prev, .custom-next {
+        display: none !important;
+    }
+	.service-card-second-sec {
+        padding: 40px 0px;
+    }
+	.social-icons ul li p.followus {
+		font-size: 18px;
+		margin: 5px 0px 0px;	
+	}
+
+}
+
+
+
+	
+@media only screen and (min-width: 100px) and (max-width:991px) {
+    a.navbar-brand {
+        width: 50%;
+    }
+	.modal-side-content {
+        max-width: 100%;
+        width: 50% !important;
+        display: block;
+        background: block;
+    }
+	.modal-side-content-inner-body {
+        width: 100%;
+		display: block;
+    }
+	p.service-tagline-heading {
+        font-size:1.3rem
+    }
+
+    .web-title h2 {
+        font-size: 50px
+    }
+
+    .country-base-section .country-base-title {
+        font-size: 33px
+    }
+
+    .hero-slider {
+        height: 25rem
+    }
+
+    .exam-course-title {
+        width: 100%
+    }
+
+    .course-sec {
+        padding-top: 0
+    }
+
+    .footer-logo img {
+        width: 250px
+    }
+
+    .footer {
+        padding-top: 310px
+    }
+
+    .follow-us {
+        padding-bottom: 20px
+    }
+
+    .banner-img {
+        background-position: left bottom
+    }
+
+    .banner-img {
+        background-position: left bottom
+    }
+
+    .lower-header {
+        padding: 10px 0
+    }
+
+    .main-menu {
+        display: none
+    }
+
+    .logo {
+        margin-top: 0
+    }
+
+    .logo img {
+        width: 210px
+    }
+
+    .responsive-menu {
+        display: block
+    }
+
+    .open-menu i {
+        font-size: 32px
+    }
+
+    .open-menu {
+        text-align: end;
+        color: var(--c3)
+    }
+
+    .responsive-menu {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background-image: url(../images/footer-bg.webp);
+        z-index: 999;
+        left: 0;
+        top: -140%;
+        background-repeat: no-repeat;
+        background-size: 160% 140%;
+        background-position: bottom;
+        position: fixed;
+        transition: all .8s;
+        padding: 0 !important
+    }
+
+    .responsive-menu.active {
+        top: 0
+    }
+
+    .responsive-menu ul li a {
+        color: var(--c2);
+        font-weight: 600
+    }
+
+    .responsive-menu>ul {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+        margin-left: 23px !important
+    }
+
+    .responsive-head {
+        display: flex;
+        justify-content: space-between;
+        padding: 10px 10px
+    }
+
+    .responsive-head img {
+        width: 220px
+    }
+
+    .responsive-head i {
+        color: var(--c3);
+        font-size: 52px
+    }
+
+    .responsive-header-contacts {
+        border-radius: 0;
+        position: absolute;
+        width: 100%;
+        bottom: 0
+    }
+
+    .open-menu {
+        display: block
+    }
+
+    .banner-form {
+        width: 90%;
+        margin-top: 20px;
+        align-items: center;
+        margin: 15px auto
+    }
+
+    .banner-form input,.banner-form option,.banner-form select,.banner-form textarea {
+        width: 100%
+    }
+
+    .contact-form-input input[type="submit"] {
+        padding: 10px 40px
+    }
+
+    .banner-content p.tp-banner {
+        font-size: 30px
+    }
+
+    .banner-content {
+        text-align: center
+    }
+
+    .policy-boxes {
+        justify-content: center;
+        margin-top: -200px
+    }
+
+    .banner-content p {
+        font-size: 18px
+    }
+
+    .exam-course-title h1 {
+        font-size: 33px
+    }
+
+    .service-card {
+        height: 550px
+    }
+
+    .modal-content {
+        bottom: 0;
+        width: 100% !important;
+        right: 0
+    }
+
+    .modal-side-content {
+        width: 600px;
+        background: block;
+        box-shadow: none
+    }
+
+    .modal-side-content {
+        max-width: 100%;
+        width: 55% !important;
+		display: block;
+    }
+
+    .modal-content {
+        bottom: 0;
+        width: 100% !important;
+        max-width: 100%;
+        position: relative !important
+    }
+
+    #exampleModalLabel {
+        font-size: 29px
+    }
+
+    .modal-paragraph p {
+        font-size: 17px
+    }
+
+    .response-none {
+        display: none
+    }
+
+    .response-show {
+        display: block;
+        position: absolute;
+        right: -1px;
+        top: -7px
+    }
+
+    .modal-header {
+        position: relative
+    }
+
+    .response-show button {
+        border-radius: 50%;
+        color: var(--c2) !important;
+        opacity: 1
+    }
+
+    .service-card-img img {
+        width: 70px
+    }
+
+    ul.res-dropdown {
+        margin-left: 20px !important;
+        !i;!;transform: scaleY(0);
+        transition: all .8s
+    }
+
+    .responsive-menu>ul>li:hover .res-dropdown {
+        opacity: 1;
+        transform: scaleY(1);
+        transition: all .8s
+    }
+
+    ul.res-dropdown li {
+        margin-bottom: 2px
+    }
+
+    ul.res-dropdown li a {
+        font-size: 13px
+    }
+	.col-custom-accordion-width, .col-custom-acordion-width {
+		flex: 0 0 auto;
+		width: 100% !important;
+	}
+	.margin-top-course {
+		margin-top: 5px;
+	}
+	.read-more-sec .align-items-center {
+		margin-top: 10px !important;
+	}
+}
+
+@media only screen and (min-width: 100px) and (max-width:768px) {
+    #service-banner-section .service-inner-banner {
+        height:200px
+    }
+
+    .banner-heading {
+        padding: 75px 100px
+    }
+
+    .country-base-section {
+        padding-top: 20px;
+    }
+}
+
+@media only screen and (min-width: 100px) and (max-width:767px) {
+    .modal-side-content {
+        display: none;
+		background: 0;
+    }
+	a.navbar-brand {
+        width: 70%;
+    }
+	
+	#service-banner-section .service-inner-banner {
+        height:180px
+    }
+
+    .banner-heading {
+        padding: 70px 20px
+    }
+
+    .service-inner-banner {
+        height: 190px;
+    }
+
+    .banner-content {
+        text-align: center
+    }
+
+    .banner-content h1 {
+        width: 100%;
+        font-size: 58px
+    }
+
+    p.service-tagline-heading {
+        font-size: 1.3rem;
+        margin-bottom: 1rem
+    }
+
+    .second {
+        order: 2
+    }
+
+    button.hero-next {
+        left: 460px
+    }
+
+    button.hero-prev,button.hero-next {
+        top: 60%
+    }
+
+    .web-title h2 {
+        font-size: 37px;
+        line-height: 1.6
+    }
+
+    .open-menu i {
+        top: 5px;
+        right: 10px
+    }
+
+    .hero-slider {
+        height: 38rem
+    }
+
+    .policy-boxes {
+        flex-wrap: inherit;
+        margin-top: -220px
+    }
+
+    .exam-course-title .paragraph-background-grey {
+        width: 100%
+    }
+
+    .footer {
+        padding-top: 60px;
+        background-size: 330rem 100%;
+        background-color: black;
+        background-image: none !important
+    }
+
+    .exam-course-title p {
+        font-size: 16px
+    }
+
+    .service-card {
+        height: auto
+    }
+
+    .responsive-none-contacts {
+        display: none
+    }
+
+    .banner-content h1 {
+        font-size: 45px
+    }
+
+    .banner-content p {
+        font-size: 17px
+    }
+
+    .web-title h2 {
+        font-size: 34px
+    }
+
+    .running-project-section .running-project-title h2 {
+        font-size: 28px
+    }
+
+    .country-base-section .country-base-title h2 {
+        font-size: 28px
+    }
+
+    .banner-content {
+        padding-top: 12%
+    }
+
+    .header-contacts {
+        gap: 19px;
+        flex-wrap: wrap
+    }
+
+    .copyright {
+        text-align: center
+    }
+
+    .terms-and-cond {
+        text-align: center;
+        margin-top: 5px
+    }
+
+    .contact-us-form-inp label,.contact-us-form label {
+        width: 31%
+    }
+
+    .inner-header-content h2 {
+        font-size: 51px
+    }
+
+    .exam-course-title h1 {
+        line-height: 1.4
+    }
+
+    .banner-content p.tp-banner {
+        font-size: 28px;
+        line-height: 1.4
+    }
+
+    .modal-dialog {
+        margin-left: auto !important
+    }
+
+    .modal-content {
+        width: 100% !important;
+        position: relative;
+        padding: 20px 0
+    }
+
+    .modal-side-content {
+        width: 100%
+    }
+
+    .contact-form-input label {
+        width: 110px
+    }
+
+    h3#exampleModalLabel {
+        font-size: 26px
+    }
+
+    div#content-container {
+        padding-left: 1rem !important
+    }
+
+    .inner-paragraph-bold {
+        padding-left: 20px
+    }
+
+    .footer-top {
+        margin-top: 0
+    }
+
+    .contact-us-title h2 {
+        font-size: 26px;
+    }
+
+    .contact-us-sub-text {
+        padding: 0 2%;
+    }
+
+    .send-us p {
+        font-size: 26px;
+        margin: 0 0 0px;
+    }
+}
+
+@media only screen and (min-width: 100px) and (max-width:575px) {
+    .banner-content h1 {
+        font-size:40px
+    }
+
+    .banner-content {
+        padding-top: 20%
+    }
+
+    .exam-course-title h1 {
+        font-size: 30px
+    }
+
+    .exam-course-title p {
+        font-size: 15px
+    }
+
+    .service-card-content p {
+        font-size: 15px
+    }
+
+    .policy-boxes {
+        flex-wrap: wrap;
+        margin-top: -400px
+    }
+
+    .exam-course-title h1 {
+        font-size: 28px;
+        margin-top: 30px
+    }
+
+    .policy-box {
+        width: 160px;
+        height: 160px
+    }
+
+    .policy-box i {
+        font-size: 38px
+    }
+
+    .policy-box h2 {
+        font-size: 18px
+    }
+
+    .policy-box p {
+        font-size: 16px
+    }
+
+    .modal-dialog {
+        max-width: 95% !important
+    }
+}
